@@ -31,16 +31,16 @@ We strive to:
 
 1. Be careful in the words that we choose. We are careful and respectful in our communication and we take responsibility for our own speech. Be kind to others. Do not insult or put down other participants. We will not accept harassment or other exclusionary behavior, such as:
 
-  - Violent threats or language directed against another person.
-  - Sexist, racist, or otherwise discriminatory jokes and language.
-  - Posting sexually explicit or violent material.
-  - Posting (or threatening to post) other people's personally identifying information ("doxing").
-  - Sharing private content, such as emails sent privately or non-publicly, or unlogged forums, such as Slack channel history, without the sender's consent.
-  - Personal insults, especially those using racist or sexist terms.
-  - Unwelcome sexual attention.
-  - Excessive profanity. Please avoid swearwords; people differ greatly in their sensitivity to swearing.
-  - Repeated harassment of others. In general, if someone asks you to stop, then stop.
-  - Advocating for, or encouraging, any of the above behavior.
+    - Violent threats or language directed against another person.
+    - Sexist, racist, or otherwise discriminatory jokes and language.
+    - Posting sexually explicit or violent material.
+    - Posting (or threatening to post) other people's personally identifying information ("doxing").
+    - Sharing private content, such as emails sent privately or non-publicly, or unlogged forums, such as Slack channel history, without the sender's consent.
+    - Personal insults, especially those using racist or sexist terms.
+    - Unwelcome sexual attention.
+    - Excessive profanity. Please avoid swearwords; people differ greatly in their sensitivity to swearing.
+    - Repeated harassment of others. In general, if someone asks you to stop, then stop.
+    - Advocating for, or encouraging, any of the above behavior.
 
 1. When we disagree, try to understand why. Disagreements, both social and technical, happen all the time and Dynata is no exception. It is important that we resolve disagreements and differing views constructively. Remember that we’re different. The strength of Dynata comes from its varied community, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
 
